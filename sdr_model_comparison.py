@@ -1,3 +1,7 @@
+# coding: utf-8
+__author__ = 'Beatloo Labs: https://github.com/beatloo-labs/'
+__version__ = '1.0.0'
+
 import argparse
 import os
 import numpy as np
